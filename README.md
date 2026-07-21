@@ -1,2 +1,2 @@
 # Express-project
-First download node jsand install express, nodemon to run this code
+First download node js and install express, nodemon to run this code
